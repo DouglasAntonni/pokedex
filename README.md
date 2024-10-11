@@ -47,14 +47,3 @@ Desenvolvido por Douglas Antonni
 
 
 
-### Explicação:
-
-- **Título**: O nome do projeto.
-- **Funcionalidades**: Uma descrição das funcionalidades principais da aplicação.
-- **Tecnologias Utilizadas**: Lista das tecnologias e ferramentas que foram usadas no projeto.
-- **Estrutura do Projeto**: Uma visão geral da organização de pastas e arquivos.
-- **Como Executar**: Instruções sobre como clonar e rodar o projeto localmente.
-- **Próximos Passos**: Recursos que podem ser adicionados ou melhorias futuras.
-- **Contribuições**: Chamado para contribuições com um link para seu perfil no GitHub.
-
-
