@@ -2,15 +2,22 @@
     font-family: 'Roboto', sans-serif;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'MinhaFonte';
+    src: url('../fonts/PokemonHollow.ttf') format('truetype');
+}
 
 body {
-    
+    background-image: url("../images/background2.png");
+    background-size: cover;
+    background-position: center;
     margin: 0;
     padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Garante que o fundo cubra a altura total da página */
+    height: 100vh;
+    font-family: 'MinhaFonte', sans-serif;
 }
 
 .content {

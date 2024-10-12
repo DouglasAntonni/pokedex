@@ -1,9 +1,32 @@
+
 .pokemons {
     display: grid;
     grid-template-columns: 1fr;
     margin: 0;
     padding: 0;
     list-style: none;
+}
+.logo-container {
+    display: flex;              /* Ativa o flexbox */
+    margin: auto;
+    flex-direction: column;
+    justify-content: center;    /* Centraliza horizontalmente */
+    align-items: center;        /* Centraliza verticalmente */
+    padding: 20px;             /* Adiciona espaçamento em volta da logo, se necessário */
+}
+.logo-container h2 {
+    font-family: 'MinhaFonte', sans-serif;       
+}
+.pokedexLogoIntro{
+    margin: 10px;
+    width: 200px;
+    max-width: 100%;          /* Define a largura máxima da imagem */
+    height: auto;      
+}
+.pokedexLogo {
+    width: 200px;
+    max-width: 100%;          /* Define a largura máxima da imagem */
+    height: auto;             /* Mantém a proporção da imagem */
 }
 
 .normal {
